@@ -3,7 +3,6 @@
 
 //-- Realize un simulador de reserva de mesas de restaurant utilizando funciones-condicionales y ciclo.---//
 
-//---Para mostrar las funciones en el alert las llame dentro de las funciones con el nombredelafuncion() y vi que andaba igual nose si esta bien puesto o tienen que ir por fuera como mostro el profe//
 
 
 
