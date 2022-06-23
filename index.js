@@ -1,7 +1,7 @@
 
 //---------Simulador Interactivo-----//
 
-//-- Realize un simulador de reserva de mesas de restaurant utilizando funciones-condicionales y ciclo.---//
+//-- Realice un simulador de reserva de mesas de restaurant utilizando funciones-condicionales y ciclo.---//
 
 
 
